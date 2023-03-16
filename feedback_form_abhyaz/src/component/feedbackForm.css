@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.form_design {
+  text-align: center;
+  margin-top: 30px;
+  border: 20px, 30px, 30px, 20px;
+}
+.nameinput {
+  margin: 1rem;
+}
+.emailinput {
+  margin: 1rem;
+}
+.experienceinput {
+  margin: 1rem;
+}
+.reviewinput {
+  margin: 1rem;
+}
+.submit {
+  padding: 10px;
+  margin-top: 30px;
+  background-color: green;
+  color: white;
+  border: 3px solid green;
+  border-radius: 5px;
+}
+.togglebtn {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: 3px solid red;
+  border-radius: 5px;
+}
+.form {
+  border-radius: 15px;
+  margin: auto;
+  width: 30%;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: cornflowerblue;
+}
+.close-btn {
+  margin-bottom: 30px;
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  margin-left: 300px;
+}
